@@ -36,6 +36,6 @@ Data Analyst skilled in SQL, Python, Power BI, Tableau, and ETL workflows with h
 - Tata Data Visualization Job Simulation
 
 ## Connect
-- LinkedIn: linkedin.com/in/akanksha-mishra-6b5ab4269
-- GitHub: github.com/Akanksha131313
+- LinkedIn: https://www.linkedin.com/in/akankshamishra13
+- GitHub: [github.com/Akanksha131313](https://www.github.com/Akanksha131313)
 - Email: akankshamishra1302003@gmail.com
